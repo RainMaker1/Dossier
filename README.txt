@@ -1,3 +1,3 @@
-This is a reservation management program that I wrote for my high school IB computer science SL class.
+This is a reservation management program that I wrote for my high school IB computer science SL class around February 2010. It has just been sitting on my hard drive since then, so I figured I might as well put it up on here.
 
 The program supports adding reservations, searching through existing reservations removing them.  It uses a simple text file as a database to hold the information when the program is not running.   

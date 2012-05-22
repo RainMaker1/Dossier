@@ -1,0 +1,10 @@
+name	room number	scheduled arrival date	scheduled departure date	phone number	size of group	coupon used	address
+John Smith	1	January 11 2010	January 14 2010	(555) 555-5555	2	N	Dallas, TX 1234 Somewhere Lane
+John Doe	2	January 11 2010	January 12 2010	(735) 948-0594	4	Y	San Francisco, CA 9875 Nowhere Avenue
+Jane Roe	4	January 14 2010	January 15 2010	(048) 925-0284	1	Y	Houston, TX 1049 Shadow Creek Street
+Joseph Joe	3	January 13 2010	January 15 2010	(194) 194-3754	5	N	San Antonio, TX 27489 Walnut Road
+Barack Obama	4	January 15 2010	January 21 2010	(730) 284-4729	4	N	Washington, DC 20500 1600 Pennsylvania Avenue
+Eduard Kim	1	January 14 2010	January 18 2010	(263) 294-1947	1	Y	Austin, TX 48924 Canyon Vista Way
+Luigi Mario	5	January 20 2010	January 25 2010	(293) 925-2958	2	N	Mario World,5678 Legends Street
+Henry Kissinger	2	January 20 2010	January 24 2010	(987) 193-5647	1	Y	Haverford, CT 9201 Cauldron Boulevard
+Mickey Mouse	5	January 24 2010	January 28 2010	(123) 456-7890	1	N	DisneyWorld, FL 5678 Magic Castle Road
